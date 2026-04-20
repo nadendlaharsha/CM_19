@@ -1,0 +1,14 @@
+[1] R. Mihalcea and P. Tarau, "TextRank: Bringing order into texts," in Proc. Conf. Empirical Methods in Natural Language Process. (EMNLP), Barcelona, Spain, Jul. 2004, pp. 404–411.
+[2] L. Page, S. Brin, R. Motwani, and T. Winograd, "The PageRank citation ranking: Bringing order to the web," Stanford InfoLab, Stanford, CA, USA, Tech. Rep. 1999-66, 1999.
+[3] I. T. Jolliffe, Principal Component Analysis, 2nd ed. New York, NY, USA: Springer-Verlag, 2002.
+[4] G. Salton and C. Buckley, "Term-weighting approaches in automatic text retrieval," Inf. Process. Manage., vol. 24, no. 5, pp. 513–523, 1988.
+[5] E. Apostolidis, E. Adamantidou, V. Mezaris, and I. Patras, "Video summarization using deep neural networks: A survey," Proc. IEEE, vol. 109, no. 11, pp. 1838–1863, Nov. 2021.
+[6] Y. Song, J. Vallmitjana, A. Stent, and A. Jaimes, "TVSum: Summarizing web videos using titles," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), Boston, MA, USA, Jun. 2015, pp. 5179–5187.
+[7] J. Li, J. Dong, and F. Wei, "Multimodal video summarization via temporal graph neural networks," IEEE Trans. Multimedia, vol. 24, pp. 3672–3684, 2022.
+[8] S. Poria, E. Cambria, R. Bajpai, and A. Hussain, "A review of affective computing: From unimodal analysis to multimodal fusion," Inf. Fusion, vol. 37, pp. 98–125, 2017.
+[9] W.-H. Cheng, K.-T. Ku, T.-S. Wang, and S.-Y. Shen, "Video summarization with user engagement signals," IEEE Trans. Circuits Syst. Video Technol., vol. 22, no. 8, pp. 1145–1158, Aug. 2012. 
+[10] S. Wu et al., "Crowdsourced time-sync video tagging using temporal and personalized topic modeling," in Proc. 20th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, 2014, pp. 721–730.
+[11] M. B. Islam, M. I. Sarower, L. Jin, and M. Tariq, "Sentiment analysis of YouTube comments regarding learning videos," in Proc. IEEE Int. Conf. Adv. Comput. Commun. Technol. (ICACCT), 2019, pp. 1–5.
+[12] Gemini Team et al., "Gemini: A family of highly capable multimodal models," arXiv preprint arXiv:2312.11805, 2023.
+[13] A. Vaswani et al., "Attention is all you need," in Adv. Neural Inf. Process. Syst., vol. 30, 2017, pp. 5998–6008.
+[14] S. Minaee et al., "Large language models: A survey," arXiv preprint arXiv:2402.06196, 2024.
